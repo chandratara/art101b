@@ -1,0 +1,13 @@
+p { color: blue; font-weight: bold; }
+
+p strong {font-weight; normal}
+li { color: turquoise }
+html {font-family: sans-serif; background-color: pink;}
+span {background-color: azure;}
+/* select all html tags that have a class highlight_01 */
+.highlight_01 { background-color: azure; }
+.highlight_02 { background-color: rgb(255, 204, 0); }
+.highlight_03 { background-color: rgb(244, 244, 198); }
+#pink-huge {width: 100px}
+#pink-medium {width: 50px;}
+#pink-small {width: 25px;}
