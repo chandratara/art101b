@@ -1,5 +1,7 @@
 body{ background-color: aquamarine; padding: 50px }
 
 li{color: cornflowerblue;}  
-li.best friends{color: pink}
+li.bestfriends{color: pink}
 li.enemies{color: purple}
+#funfont{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
+#boringfont{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
