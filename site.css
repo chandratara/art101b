@@ -1,0 +1,5 @@
+body{ background-color: aquamarine; padding: 50px }
+
+li{color: cornflowerblue;}  
+li.best friends{color: pink}
+li.enemies{color: purple}

@@ -1,6 +1,6 @@
 p { color: blue; font-weight: bold; }
 
-p strong {font-weight; normal}
+p strong {font-weight: normal;}
 li { color: turquoise }
 html {font-family: sans-serif; background-color: pink;}
 span {background-color: azure;}
@@ -11,3 +11,6 @@ span {background-color: azure;}
 #pink-huge {width: 100px}
 #pink-medium {width: 50px;}
 #pink-small {width: 25px;}
+
+.test-div { background: lemonchiffon; margin: 30px; padding: 40px; }
+.my-flex {display: flex;}   
