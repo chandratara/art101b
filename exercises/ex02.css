@@ -14,8 +14,3 @@ span {background-color: azure;}
 
 .test-div { background: lemonchiffon; margin: 30px; padding: 40px; }
 .my-flex {display: flex;}   
-li{color: cornflowerblue;}  
-li.bestfriends{color: pink}
-li.enemies{color: purple}
-#funfont{font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif}
-#boringfont{font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
