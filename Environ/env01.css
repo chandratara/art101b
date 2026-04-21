@@ -3,7 +3,5 @@ p {
   font-family: fantasy, sans-serif;
 }
 
-.my-image {
-  width: 5px;
-  height: auto;
-}
+.my-image {width: 50px;
+  height: auto;}
