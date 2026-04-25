@@ -1,0 +1,12 @@
+body {
+    background-color: #a3b18a; /* A soft mossy green */
+}
+#env-zone {
+    height: 30vh; /* Takes up 30% of the screen height */
+    background-color: #f1f8e9; /* Light misty color */
+}
+
+#main-scene {
+    height: 70vh; /* Takes up the remaining 70% of the screen */
+    background-color: #a3b18a; /* Deeper forest green */
+}
